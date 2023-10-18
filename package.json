@@ -1,0 +1,15 @@
+{
+  "name": "sql",
+  "version": "1.0.0",
+  "description": "This is project where I am using Node with SQL ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amit Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^8.2.0",
+    "mysql2": "^3.6.2"
+  }
+}
